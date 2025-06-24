@@ -4,6 +4,8 @@
   Một kho tàng sách điện tử chất lượng cao dành cho lập trình viên, sinh viên và những người đam mê công nghệ thông tin.
 </p>
 
+<p align="center">Truy cập blog của tôi tại: https://tiennhm.github.io/ để xem thêm nhiều tutorials hữu ích khác ⭐</p>
+
 <p align="center">
   <a href="https://github.com/TienNHM/ebooks/issues">
     <img alt="Issues" src="https://img.shields.io/github/issues/TienNHM/ebooks?color=orange" />
